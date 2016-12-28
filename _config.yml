@@ -3,7 +3,7 @@
 # # # # # # # # # # # # #
 
 # Basic
-name:               "AWEEKJ"
+name:               "suhy89"
 
 twitter:
   username:         "__modo_"
@@ -12,14 +12,14 @@ twitter:
 #    publisher:      1234
 
 author:
-  name:             Hanju Jo
+  name:             Sunghyun Kim
   facebook:
   twitter:          __modo_
-  github:           AWEEKJ
-  linkedin:         aweekj
+  github:           suhy89
+  linkedin:         suhy89
   medium:
   tumblr:
-  email:            gkswn121@gmail.com
+  email:            kimsuhy89@gmail.com
 
 # Google-analytics
 google-analytics:
@@ -27,10 +27,10 @@ google-analytics:
 
 # Disqus
 disqus:
-  id:                "aweekj"
+  id:                "suhy89"
 
 # URL
-url:                "https://AWEEKJ.github.io" # the base hostname & protocol for your site
+url:                "https://suhy89.github.io" # the base hostname & protocol for your site
 #url:                "http://localhost:4000" # use this url when develop
 baseurl:            "" # the subpath of your site, e.g. /blog
 
@@ -56,7 +56,7 @@ nav:
   - name:           "Tags"
     url:            "/tags/index.html"
   - name:           "TIL"
-    url:            "https://github.com/AWEEKJ/TIL"
+    url:            "https://github.com/suhy89/TIL"
 
 
 
